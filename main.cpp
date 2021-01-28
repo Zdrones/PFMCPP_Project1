@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       dog 
+//  action 1:   the dog barks
+dog.bark();
+//  action 2:   the dog runs
+dog.run();
+//  action 3:   the dog attracts passersby
+dog.attractPassersby();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       chair
+//  action 1:   the chair squeaks
+chair.squeak();
+//  action 2:   the chair makes unbearable noise
+chair.makeUnberableNoise();
+//  action 3:   the chair falls apart
+chair.fallApart(); 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       finger
+//  action 1:   the finger stings
+finger.sting();
+//  action 2:   the finger moves
+finger.move();
+//  action 3:   the finger scratches his hair
+finger.scratchHair();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       fire
+//  action 1:   the fire warms people
+fire.warmPeople();
+//  action 2:   the fire illuminates the ancient world
+fire.illuminateAcientWorld();
+//  action 3:   the fire burns out forest
+fire.burnOutForest(); 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       cat
+//  action 1:   the cat meows
+cat.meow();
+//  action 2:   the cat lies down
+cat.lieDown();
+//  action 3:   the cat jumps out of the window
+cat.jumpOutOfWindow();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       flower
+//  action 1:   the flower blooms
+flower.bloom();
+//  action 2:   the flower withers
+flower.wither();
+//  action 3:   the flower scents in air
+flower.scentInAir();
+//  7)          
+//  Noun:       bird
+//  action 1:   the bird flies
+bird.fly();
+//  action 2:   the bird sings
+bird.sing();
+//  action 3:   the bird catches insects
+bird.catchInsect();
+//  8)          
+//  Noun:       pretty boy
+//  action 1:   the pretty boy laughs
+prettyBoy.laugh();
+//  action 2:   the pretty boy comes across the house
+prettyBoy.comeAcrossHouse();
+//  action 3:   the pretty boy runs away
+prettyBoy.runAway();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       rain
+//  action 1:   the rain becomes heavier 
+rain.becomeHeavier();
+//  action 2:   the rain keeps falling
+rain.keepFalling();
+//  action 3:   the rain comes with thunder
+rain.comeWithThunder();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       hurricane
+//  action 1:   the hurricane blows
+hurricane.blow();
+//  action 2:   the hurricane heads into Florida
+hurricane.headIntoFlorida();
+//  action 3:   the hurricane destories the village
+hurricane.destoryVillage(); 
 
 
 #endif
