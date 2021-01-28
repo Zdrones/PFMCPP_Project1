@@ -108,13 +108,13 @@ bird.sing();
 //  action 3:   the bird catches insects
 bird.catchInsect();
 //  8)          
-//  Noun:       man
-//  action 1:   the man screams
-man.scream();
-//  action 2:   the man yells
-man.yell();
-//  action 3:   the man breaks his legs
-man.breakLegs();
+//  Noun:       pretty boy
+//  action 1:   the pretty boy laughs
+prettyBoy.laugh();
+//  action 2:   the pretty boy comes across the house
+prettyBoy.comeAcrossHouse();
+//  action 3:   the pretty boy runs away
+prettyBoy.runAway();
 //  9)
 //  Noun:       rain
 //  action 1:   the rain becomes heavier 
