@@ -59,7 +59,6 @@ dog.bark();
 dog.run();
 //  action 3:   the dog attracts passersby
 dog.attractPassersby();
-
 //  2)
 //  Noun:       chair
 //  action 1:   the chair squeaks
@@ -68,7 +67,6 @@ chair.squeak();
 chair.makeUnberableNoise();
 //  action 3:   the chair falls apart
 chair.fallApart(); 
-
 //  3)
 //  Noun:       finger
 //  action 1:   the finger stings
@@ -77,7 +75,6 @@ finger.sting();
 finger.move();
 //  action 3:   the finger scratches his hair
 finger.scratchHair();
-
 //  4)
 //  Noun:       fire
 //  action 1:   the fire warms people
@@ -86,7 +83,6 @@ fire.warmPeople();
 fire.illuminateAcientWorld();
 //  action 3:   the fire burns out forest
 fire.burnOutForest(); 
-
 //  5)
 //  Noun:       cat
 //  action 1:   the cat meows
@@ -95,7 +91,6 @@ cat.meow();
 cat.lieDown();
 //  action 3:   the cat jumps out of the window
 cat.jumpOutOfWindow();
-
 //  6)
 //  Noun:       flower
 //  action 1:   the flower blooms
@@ -104,7 +99,6 @@ flower.bloom();
 flower.wither();
 //  action 3:   the flower scents in air
 flower.scentInAir();
-
 //  7)          
 //  Noun:       bird
 //  action 1:   the bird flies
@@ -113,7 +107,6 @@ bird.fly();
 bird.sing();
 //  action 3:   the bird catches insects
 bird.catchInsect();
-
 //  8)          
 //  Noun:       man
 //  action 1:   the man screams
@@ -122,7 +115,6 @@ man.scream();
 man.yell();
 //  action 3:   the man breaks his legs
 man.breakLegs();
-
 //  9)
 //  Noun:       rain
 //  action 1:   the rain becomes heavier 
@@ -131,7 +123,6 @@ rain.becomeHeavier();
 rain.keepFalling();
 //  action 3:   the rain comes with thunder
 rain.comeWithThunder();
-
 //  10)
 //  Noun:       hurricane
 //  action 1:   the hurricane blows
